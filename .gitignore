@@ -3,5 +3,8 @@ venv/
 __pycache__/
 *.pyc
 reminders.db
-# hi my name is ayush 
-# Collaborator test.DS_Store
+# CMake build directory
+cpp/build/
+
+# macOS system files
+.DS_Store
